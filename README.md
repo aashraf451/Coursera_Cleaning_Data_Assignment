@@ -1,6 +1,13 @@
 # Coursera_Cleaning_Data_Assignment
-This project is for the 3rd coursera course in the data science specialization for cleaning and preparing the data 
-the steps followed in the code are documented by comments in the code as follows 
+This is Ahmed Ashraf Assignemnt submission for the project of the 3rd coursera course in the data science specialization for cleaning and preparing the data 
+
+Dataset
+Human Activity Recognition Using Smartphones
+
+Files
+CodeBook.md a code book that describes the variables, the data, and any transformations or work that I performed to clean up the data
+
+The steps followed in the code are documented by comments in the code as follows 
 - Download data
 - Read and Convert Data
 - Merges the Training and Testing Sets into 1 data set called data.all
